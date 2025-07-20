@@ -3,7 +3,7 @@
 
 This project is a full-scale implementation of a web search engine built for academic and professional purposes. It is composed of two main components:
 
-## 🔍 Search Engine Project (Advanced CS/SE Track)
+## 🔍 Search Engine Project
 
 This project implements a **scalable, high-performance search engine** built entirely from scratch—without relying on third-party indexing libraries like Lucene or Elasticsearch. Designed to handle tens of thousands of HTML documents, this system emphasizes algorithmic efficiency, memory-aware design, and real-time retrieval accuracy.
 
