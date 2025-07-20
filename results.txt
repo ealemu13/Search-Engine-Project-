@@ -1,0 +1,130 @@
+
+URLs that contain: "cristina lopes"
+1. https://www.ics.uci.edu/~hsajnani/ (tf-idf: 127.3666)
+2. https://www.informatics.uci.edu/explore/facts-figures/#content (tf-idf: 38.2100)
+3. http://mondego.ics.uci.edu/ (tf-idf: 38.2100)
+4. https://www.informatics.uci.edu/explore/facts-figures/ (tf-idf: 38.2100)
+5. https://www.ics.uci.edu/faculty/area/index.php (tf-idf: 31.8417)
+Time Response: 156.25 ms
+
+
+URLs that contain: "acm"
+1. https://www.ics.uci.edu/~eppstein/pubs/pubs.ff (tf-idf: 421.6850)
+2. https://www.ics.uci.edu/~eppstein/pubs/all.html (tf-idf: 389.0384)
+3. https://www.ics.uci.edu/~kay/courses/131/s04readings.html (tf-idf: 375.4357)
+4. https://www.ics.uci.edu/~eppstein/bibs/eppstein.html (tf-idf: 334.6274)
+5. https://www.ics.uci.edu/~eppstein/pubs/geom-all.html (tf-idf: 263.8932)
+Time Response: 31.25 ms
+
+
+URLs that contain: "machine learning"
+1. http://mondego.ics.uci.edu/datasets/maven-contents.txt (tf-idf: 497.1814)
+2. https://cml.ics.uci.edu/category/aiml/page/2/#content (tf-idf: 162.0768)
+3. https://cml.ics.uci.edu/category/aiml/page/2/ (tf-idf: 162.0768)
+4. https://cml.ics.uci.edu/category/aiml/ (tf-idf: 131.4136)
+5. https://cml.ics.uci.edu/category/aiml/#content (tf-idf: 131.4136)
+Time Response: 31.25 ms
+
+
+URLs that contain: "master of software engineering"
+1. http://mondego.ics.uci.edu/datasets/maven-contents.txt (tf-idf: 615.3790)
+2. https://www.ics.uci.edu/~kay/courses/h22/hw/DVD-random.txt (tf-idf: 445.5233)
+3. https://www.ics.uci.edu/~kay/courses/h22/hw/DVD.txt (tf-idf: 445.5233)
+4. https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2017-winter-project5-mysql-master-slave?action=diff&version=2 (tf-idf: 116.9499)
+5. https://grape.ics.uci.edu/wiki/public/wiki/cs122b-2016-spring-project5-mysql-master-slave?action=diff&version=1 (tf-idf: 108.5963)
+Time Response: 46.875 ms
+
+
+URLs that contain: "professor cristina lopes"
+1. https://www.ics.uci.edu/faculty/index.php (tf-idf: 272.3607)
+2. https://www.ics.uci.edu/faculty/ (tf-idf: 272.3607)
+3. https://www.ics.uci.edu/community/news/notes/notes_2007.php (tf-idf: 198.5433)
+4. https://www.ics.uci.edu/community/news/notes/notes_2010.php (tf-idf: 152.7256)
+5. https://www.ics.uci.edu/faculty/index.php?department=Computer%20Science (tf-idf: 147.6348)
+Time Response: 31.25 ms
+
+
+URLs that contain: "undergraduate informatics program requirements"
+1. https://www.ics.uci.edu/~redmiles/ics125-FQ01/adp.html (tf-idf: 52.4341)
+2. https://www.ics.uci.edu/~alspaugh/researchStudents.html (tf-idf: 43.6951)
+3. https://www.informatics.uci.edu/professor-ruberg-honored-for-excellence-in-fostering-undergraduate-research/#content (tf-idf: 39.3256)
+4. https://www.informatics.uci.edu/professor-ruberg-honored-for-excellence-in-fostering-undergraduate-research/ (tf-idf: 39.3256)
+5. https://www.cs.uci.edu/undergraduate-programs/ (tf-idf: 37.1409)
+Time Response: 15.625 ms
+
+
+URLs that contain: "graduate publication list 2024"
+1. https://www.ics.uci.edu/community/news/notes/notes_2007.php (tf-idf: 86.4702)
+2. https://www.ics.uci.edu/ugrad/QA_Graduation.php (tf-idf: 71.3379)
+3. https://www.ics.uci.edu/ugrad/QA_Graduation (tf-idf: 71.3379)
+4. https://www.ics.uci.edu/community/scholarships/ (tf-idf: 60.5292)
+5. https://www.ics.uci.edu/community/scholarships/index.php (tf-idf: 60.5292)
+Time Response: 46.875 ms
+
+
+URLs that contain: "cs 101 course syllabus"
+1. https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/news (tf-idf: 766.4797)
+2. http://mondego.ics.uci.edu/datasets/maven-contents.txt (tf-idf: 611.1799)
+3. https://www.ics.uci.edu/~eppstein/bibs/eppstein.html (tf-idf: 475.9188)
+4. https://www.ics.uci.edu/~rickl/courses/cs-171/0-ihler-2016-fq/Lectures/Lathrop/ (tf-idf: 370.7157)
+5. https://www.ics.uci.edu/~rickl/courses/cs-171/cs171-lecture-slides/2016_WQ_CS171/ (tf-idf: 212.9110)
+Time Response: 62.5 ms
+
+
+URLs that contain: "informatics news march 2025"
+1. https://www.informatics.uci.edu/very-top-footer-menu-items/people/#Affiliated (tf-idf: 194.0780)
+2. https://www.informatics.uci.edu/very-top-footer-menu-items/people/ (tf-idf: 194.0780)
+3. https://www.ics.uci.edu/faculty/index.php (tf-idf: 171.6844)
+4. https://www.ics.uci.edu/faculty/ (tf-idf: 171.6844)
+5. https://www.ics.uci.edu/faculty/faculty_dept?department=Informatics (tf-idf: 151.7790)
+Time Response: 15.625 ms
+
+
+URLs that contain: "informatics news march 2025"
+1. https://www.informatics.uci.edu/very-top-footer-menu-items/people/#Affiliated (tf-idf: 194.0780)
+2. https://www.informatics.uci.edu/very-top-footer-menu-items/people/ (tf-idf: 194.0780)
+3. https://www.ics.uci.edu/faculty/index.php (tf-idf: 171.6844)
+4. https://www.ics.uci.edu/faculty/ (tf-idf: 171.6844)
+5. https://www.ics.uci.edu/faculty/faculty_dept?department=Informatics (tf-idf: 151.7790)
+Time Response: 15.625 ms
+
+
+URLs that contain: "apply"
+1. https://www.ics.uci.edu/~eppstein/bibs/kpath.bib (tf-idf: 149.4430)
+2. https://www.ics.uci.edu/~kobsa/privacy/Denmark.htm#30 (tf-idf: 129.9505)
+3. https://www.ics.uci.edu/~kobsa/privacy/Italian-privacy-law.html#article22 (tf-idf: 110.4579)
+4. https://www.ics.uci.edu/~kobsa/privacy/Netherlands.htm#article4 (tf-idf: 108.2920)
+5. https://www.ics.uci.edu/~ejw/authoring/collection/dt/CollSpec031.txt (tf-idf: 108.2920)
+Time Response: 31.25 ms
+
+
+URLs that contain: "dr.john"
+Time Response: 15.625 ms
+
+
+URLs that contain: "undergraduate guide"
+1. https://www.ics.uci.edu/~redmiles/ics125-FQ01/adp.html (tf-idf: 52.4341)
+2. https://www.ics.uci.edu/~alspaugh/researchStudents.html (tf-idf: 43.6951)
+3. https://www.informatics.uci.edu/professor-ruberg-honored-for-excellence-in-fostering-undergraduate-research/#content (tf-idf: 39.3256)
+4. https://www.informatics.uci.edu/professor-ruberg-honored-for-excellence-in-fostering-undergraduate-research/ (tf-idf: 39.3256)
+5. https://www.cs.uci.edu/undergraduate-programs/ (tf-idf: 37.1409)
+Time Response: 15.625 ms
+
+
+URLs that contain: "events 2023 programming informatics"
+1. http://mondego.ics.uci.edu/datasets/maven-contents.txt (tf-idf: 3711.2257)
+2. https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122a-2019-spring/CompatibleHomework5Data.sql (tf-idf: 367.8447)
+3. https://grape.ics.uci.edu/wiki/asterix/raw-attachment/wiki/cs122a-2019-spring/CompatibleHomework6Dump.sql (tf-idf: 367.8447)
+4. https://www.ics.uci.edu/~rohit/wacc (tf-idf: 249.4789)
+5. https://www.ics.uci.edu/~taylor/ICS_52_FQ04/unical-req.html (tf-idf: 167.5332)
+Time Response: 46.875 ms
+
+
+URLs that contain: "computer science job opportunities"
+1. https://www.ics.uci.edu/~eppstein/bibs/kpath.bib (tf-idf: 342.5460)
+2. https://www.ics.uci.edu/~eppstein/bibs/eppstein.html (tf-idf: 290.6116)
+3. https://www.ics.uci.edu/~dan/class/267P/datasets/calgary/bib (tf-idf: 264.0919)
+4. https://www.ics.uci.edu/~eppstein/pubs/pubs.ff (tf-idf: 223.2074)
+5. https://www.ics.uci.edu/~eppstein/pubs/all.html (tf-idf: 192.2678)
+Time Response: 46.875 ms
+
