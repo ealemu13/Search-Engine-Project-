@@ -62,7 +62,34 @@ Built with a modular, milestone-driven approach:
 
 ## ⚙️ Usage
 
-### 🕸️ Crawler
+### 🧱 Inverted Index Builder (Indexer)
+
+This script reads crawled HTML content from JSON files, tokenizes and stems the text, and builds a disk-based inverted index.
+
+**To run:**
 ```bash
-cd crawler/
-python3 main.py
+# From the project root or indexer folder
+python3 indexer.py
+
+### 🔍 Query Engine (TF-IDF Search)
+
+This interactive script loads a disk-based inverted index and allows users to run keyword queries. It uses Boolean AND and TF-IDF scoring to rank and return the top relevant URLs.
+
+**To run:**
+```bash
+# From the project root or query_engine folder
+jupyter notebook query_engine.ipynb
+
+### 🚀 Search Engine Demo (Advanced Disk-Based TF-IDF Engine)
+
+This notebook demonstrates a search engine. The system reads JSON files, builds a disk-based inverted index with offset maps, and handles real-time search queries using TF-IDF scoring.
+
+---
+
+#### 🔧 Setup Instructions
+Make sure you have all dependencies installed:
+```bash
+pip install nltk beautifulsoup4
+
+jupyter notebook search_demo.ipynb
+
